@@ -1,0 +1,1 @@
+SELECT product_name FROM products WHERE product_name = :name;
